@@ -21,6 +21,12 @@ div img {
   height: auto;
   max-width: 50%;
 }
+
+#cat{
+  height: auto;
+  max-width: 20%;
+}
+
 ul{
   background-color:cadetblue;
   border: 2px solid black;
@@ -33,10 +39,6 @@ ul{
 #botmenu{
   list-style-type: circle;
 }
-
-h4.job-title {
-}
-
 
 
 .button{
